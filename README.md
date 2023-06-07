@@ -4,6 +4,7 @@ Olá, aqui são dois comandos que você deve fazer para conseguir realizar qualq
  - npx expo install react-native-screens react-native-safe-area-context
 
 
+
 Agora realize os seguintes comandos de acordo com a navegação desejada:
 
 
