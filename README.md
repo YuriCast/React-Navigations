@@ -10,22 +10,22 @@ Agora realize os seguintes comandos de acordo com a navegação desejada:
 
 Bootom-Tabs-Navigator:
 
- - para que a navegação funcione, será necessário que utlize o seguinte comando:
+ - Para que a navegação funcione, será necessário que utlize o seguinte comando:
  - npm install @react-navigation/bottom-tabs
 
 
 Drawer-Navigator:
 
- - para que a navegação funcione, será necessário que utlize o seguinte comando:
+ - Para que a navegação funcione, será necessário que utlize o seguinte comando:
  - npm install @react-navigation/drawer
 
 
 Material-Top-Tabs-Navigator:
 
- - para que a navegação funcione, será necessário que utlize o seguinte comando:
+ - Para que a navegação funcione, será necessário que utlize o seguinte comando:
  - npm install @react-navigation/material-bottom-tabs react-native-paper react-native-vector-icons
 
 Stack:
 
- - para que a navegação funcione, será necessário que utlize o seguinte comando:
+ - Para que a navegação funcione, será necessário que utlize o seguinte comando:
  - npm install @react-navigation/stack
